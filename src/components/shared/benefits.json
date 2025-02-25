@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_benefits",
+  "info": {
+    "displayName": "text",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

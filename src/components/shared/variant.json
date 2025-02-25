@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_variants",
+  "info": {
+    "displayName": "Variant"
+  },
+  "options": {},
+  "attributes": {
+    "modelNo": {
+      "type": "string",
+      "required": true
+    },
+    "power": {
+      "type": "string"
+    },
+    "lumens": {
+      "type": "string"
+    },
+    "efficiency": {
+      "type": "string"
+    },
+    "dimensions": {
+      "type": "json"
+    }
+  }
+}
